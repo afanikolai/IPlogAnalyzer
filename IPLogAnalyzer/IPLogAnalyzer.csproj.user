@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>--file-log "C:\Users\79824\Desktop\test.txt" --file-output "C:\Users\79824\Desktop\result.txt" --time-start "09.04.2023" --time-end "11.04.2023" --address-start "192.168.0.3" --address-mask "255.255.255.0"</StartArguments>
+  </PropertyGroup>
+</Project>

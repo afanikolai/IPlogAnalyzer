@@ -1,0 +1,8 @@
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\bin\Debug\IPLogAnalyzer.exe.config
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\bin\Debug\IPLogAnalyzer.exe
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\bin\Debug\IPLogAnalyzer.pdb
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\obj\Debug\IPLogAnalyzer.csproj.AssemblyReference.cache
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\obj\Debug\IPLogAnalyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\obj\Debug\IPLogAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\obj\Debug\IPLogAnalyzer.exe
+C:\Users\79824\source\repos\IPLogAnalyzer\IPLogAnalyzer\obj\Debug\IPLogAnalyzer.pdb
